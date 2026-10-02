@@ -1,0 +1,11 @@
+{
+  "name": "Hermes",
+  "short_name": "Hermes",
+  "description": "Outliner, markdown vault and database in one local-first app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
